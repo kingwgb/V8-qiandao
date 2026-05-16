@@ -1,0 +1,22 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 本地环境配置
+.env
+.env.local
+
+# 截图（运行时产物）
+screenshots/*.png
+
+# 缓存
+.checkin-cache/
+
+# 系统
+.DS_Store
